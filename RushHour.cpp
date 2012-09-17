@@ -142,7 +142,7 @@ void RushHour::expand(Node *node, vector<Node*> &mult)
 	{
 		vector< pair<int, int> > puzzle(node->board);
 	
-		//masina orizontala
+		//horizontal car
 		if(cars[i].getType() == false)
 		{
 			left = false;
