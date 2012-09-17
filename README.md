@@ -9,6 +9,6 @@ set. As heuristic function, it is using the number of blocking cars for the red 
 One or more single steps for a car in any direction represent only one move. 
 The number of minimal moves and every change of the board are printed in the file called "out.txt".
 Input data is read from the file called "in.txt". The puzzle is given in an ASCII mode. 
-Execution time is above 2 seconds for hard puzzles. For easy ones, a time of 0.5 seconds is more than enough.
+Execution time is below 2 seconds for hard puzzles. For easy ones, a time of 0.5 seconds is more than enough.
 
 
